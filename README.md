@@ -1,3 +1,3 @@
-(https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/5e20c791-fdd1-4ed0-be17-35fc0def4213)
-(https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/fbccbf8e-0455-47df-86b4-434bac2c371f)
-(https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/861c0db6-8bfb-404e-ad9c-236ccd42dc1b)
+![Screenshot (78)](https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/867d54f4-480a-4577-ae6b-4abdfa63c2b1)
+![Screenshot (79)](https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/79889028-4e8c-4c67-b964-bc89835bdb16)
+![Screenshot (80)](https://github.com/jasonnawa/quizz-webapp-react/assets/136719942/6b967baf-cc71-4fc2-897b-7fb5d57f7ef9)
